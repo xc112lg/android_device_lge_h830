@@ -27,5 +27,3 @@ TARGET_KERNEL_CONFIG += vendor/lge/h830.config
 
 # inherit from the proprietary version
 include vendor/lge/h830/BoardConfigVendor.mk
-
-BOARD_PRODUCTIMAGE_MINIMAL_PARTITION_RESERVED_SIZE := true
